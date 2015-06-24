@@ -1,5 +1,7 @@
 Wire Format abstraction library
 ===
+*Note that version chronicle-wire-1.0.10-alpha  is the last official version released under the apache license.
+
 
 # Purpose
 
